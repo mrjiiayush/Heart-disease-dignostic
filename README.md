@@ -1,4 +1,4 @@
-Certainly! Here’s a structured content description you can use for your Power BI project on GitHub. This explanation covers the objectives, analysis, and insights from your heart disease diagnostic analysis project.
+
 
 ---
 
